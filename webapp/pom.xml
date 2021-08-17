@@ -12,11 +12,11 @@
 
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
-  <name>hw</name>
+  <name>hwdemo</name>
   <description>HelloWorldWebapp.</description>
 
   <build>
-    <finalName>${project.artifactId}</finalName>
+    <finalName>${project.name}</finalName>
 
     <plugins>
       <plugin>
